@@ -11,7 +11,7 @@ import SwiftUI
 struct ButtonMultiStateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ButtonMultiState()
         }
     }
 }
